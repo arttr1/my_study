@@ -109,3 +109,8 @@ plt.title('Зависимость напряжённости электрост�
 plt.grid(True)
 plt.legend()
 plt.show()
+
+
+
+
+print('idxeyb')
