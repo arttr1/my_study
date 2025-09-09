@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../c++"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../stepik courses"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tpp": "cpp",
+			"fstream": "cpp",
+			"iostream": "cpp",
+			"iosfwd": "cpp",
+			"ostream": "cpp",
+			"xstring": "cpp"
+		}
+	}
+}
