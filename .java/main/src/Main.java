@@ -1,11 +1,3 @@
-class Example{
-    int a;
-    boolean b;
-    String s;
-}
-
-
-
 public class Main {
     public static void main(String[] args) {
 
@@ -37,3 +29,4 @@ public class Main {
         System.out.print("max chmo");    
     }
 }
+
